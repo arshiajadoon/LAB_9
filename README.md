@@ -688,10 +688,5 @@ Key achievements:
 **Lab Number:** 09  
 **Date Completed:** December 2024
 
----
-
-**⚠️ Security Notice:** This README does not contain any sensitive information such as AWS credentials, private keys, or access tokens. All credentials shown in screenshots have been redacted or rotated.
-
----
 
 *End of Documentation*
